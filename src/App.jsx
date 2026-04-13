@@ -111,6 +111,9 @@ function App() {
           </ul>
         </div>
       </section>
+      <span className="text-3xl font-bold text-blue-500 underline">
+  ¡Tailwind v4 funcionando!
+</span>
       <div className="ticks"></div>
       <section id="spacer"></section>
     </>
